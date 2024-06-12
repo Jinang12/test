@@ -1,0 +1,21 @@
+body{
+    background: linear-gradient(to left,cyan,rgb(253, 253, 149));
+}
+.navbar{
+    background: linear-gradient(to right, rgb(19, 190, 76), rgb(24, 207, 207));
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.table {
+    background-color: transparent;
+}
+.table th,
+.table td {
+    background-color: transparent;
+}
+img{
+    width: 30px;
+    margin-right: 10px;
+}
+table{
+    font-weight: 600;
+}
